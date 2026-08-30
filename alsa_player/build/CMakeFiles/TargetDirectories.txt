@@ -1,0 +1,3 @@
+/home/ubuntu1804/linux/cpp/07/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu1804/linux/cpp/07/build/CMakeFiles/alsa_mp3_player_armV2.dir
+/home/ubuntu1804/linux/cpp/07/build/CMakeFiles/edit_cache.dir

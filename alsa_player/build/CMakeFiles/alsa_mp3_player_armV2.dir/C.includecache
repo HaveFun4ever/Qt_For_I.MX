@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu1804/linux/cpp/07/mp3_player.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+signal.h
+-
+unistd.h
+-
+alloca.h
+-
+pthread.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+mpg123.h
+-
+alsa/asoundlib.h
+-
+
+/home/ubuntu1804/mpg123_arm_install/include/fmt123.h
+
+/home/ubuntu1804/mpg123_arm_install/include/mpg123.h
+fmt123.h
+/home/ubuntu1804/mpg123_arm_install/include/fmt123.h
+stddef.h
+-
+stdint.h
+-
+sys/types.h
+-
+
